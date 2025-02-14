@@ -40,7 +40,7 @@ assignees:
   
 status-website:
   # cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  baseUrl: /upptime/
   robotsText: "User-agent: * \n Disallow: /"
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
