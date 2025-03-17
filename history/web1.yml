@@ -1,7 +1,7 @@
 url: $UPTIME_SITE_1
-status: degraded
+status: up
 code: 200
-responseTime: 17996
-lastUpdated: 2025-03-17T05:41:47.333Z
+responseTime: 428
+lastUpdated: 2025-03-17T07:49:59.693Z
 startTime: 2025-02-14T22:46:38.628Z
 generator: Upptime <https://github.com/upptime/upptime>
