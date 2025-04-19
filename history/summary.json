@@ -112,17 +112,17 @@
     "url": "$UPTIME_SITE_7",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "web7",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 497,
-    "timeDay": 480,
-    "timeWeek": 539,
-    "timeMonth": 497,
-    "timeYear": 497,
+    "time": 499,
+    "timeDay": 558,
+    "timeWeek": 551,
+    "timeMonth": 501,
+    "timeYear": 499,
     "dailyMinutesDown": {}
   }
 ]
